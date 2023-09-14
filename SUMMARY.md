@@ -1,5 +1,2 @@
 # Summary
-
-[Introduction](README.md)
-
-- [INT3306 Guides](platform-guides.md)
+- [Platform Guides](platform-guides.md)
