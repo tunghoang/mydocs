@@ -3,7 +3,7 @@ This platform is built for the following courses:
 - INT3306: Web Application Development
 - INT3305: Multimedia Communications
 
-# Available Servicesss
+# Available Services
 The platform provide the following features/services:
 - Linux environment
 - Built-in frameworks: NodeJS (v16), Python (v3.9.7)
